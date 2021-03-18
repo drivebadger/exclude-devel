@@ -1,0 +1,42 @@
+*.nupkg
+
+system/caches
+system/index
+system/tmp
+.android/avd
+.gradle/
+.nuget/packages
+
+AppData/Local/Android
+Microsoft/AndroidNDK64
+Microsoft/AndroidSDK
+Microsoft/VisualStudio
+
+Program Files/Android/jdk
+Program Files/dotnet
+Program Files/Git
+Program Files/Microsoft Analysis Services
+Program Files/Microsoft Visual Studio *.0/
+
+Program Files (x86)/Android
+Program Files (x86)/IncrediBuild
+Program Files (x86)/Microsoft Analysis Services
+Program Files (x86)/Microsoft SDKs
+Program Files (x86)/Microsoft SQL Server Management Studio 18
+Program Files (x86)/Microsoft Visual Studio
+Program Files (x86)/Microsoft Visual Studio *.0/
+Program Files (x86)/MSBuild
+Program Files (x86)/Windows Kits
+
+Microsoft SQL Server/100
+Microsoft SQL Server/110
+Microsoft SQL Server/120
+Microsoft SQL Server/130
+Microsoft SQL Server/140
+Microsoft SQL Server/80
+Microsoft SQL Server/90
+MSSQL/Binn
+Oracle/VirtualBox
+pgAdmin 4/v4
+ReportServer/ReportBuilder
+VMware/Installer
