@@ -16,7 +16,7 @@ files are excluded, but `DATA` directories containing `mdf` and `ldf` files are 
 
 ### Installing
 
-Clone this repository as `/opt/drives/config/exclude-devel` directory on your Drive Badger persistent partition.
+Clone this repository as `/opt/drivebadger/config/exclude-devel` directory on your Drive Badger persistent partition.
 
 ### More information
 
