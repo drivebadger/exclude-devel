@@ -12,10 +12,12 @@ Microsoft/AndroidNDK64
 Microsoft/AndroidSDK
 Microsoft/VisualStudio
 
+Program Files/Android/Android Studio
 Program Files/Android/jdk
 Program Files/dotnet
 Program Files/Git
 Program Files/Microsoft Analysis Services
+Program Files/Microsoft Visual Studio
 Program Files/Microsoft Visual Studio *.0/
 
 Program Files (x86)/Android
