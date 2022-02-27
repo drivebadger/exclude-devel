@@ -26,6 +26,7 @@ Program Files (x86)/Microsoft Analysis Services
 Program Files (x86)/Microsoft SDKs
 Program Files (x86)/Microsoft SQL Server Management Studio 18
 Program Files (x86)/Microsoft Visual Studio
+Program Files (x86)/Microsoft Visual Studio 8
 Program Files (x86)/Microsoft Visual Studio *.0/
 Program Files (x86)/MSBuild
 Program Files (x86)/Windows Kits
@@ -42,3 +43,4 @@ Oracle/VirtualBox
 pgAdmin 4/v4
 ReportServer/ReportBuilder
 VMware/Installer
+VMware/VMware Player
